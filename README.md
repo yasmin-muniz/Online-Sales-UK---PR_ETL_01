@@ -65,7 +65,9 @@ Online-Sales-UK---PR_ETL_01/
 - Visualizações:  
   - Quantidade de produtos vendidos por país  
   - Produtos mais vendidos  
-  - Valor total de vendas por país  
+  - Valor total de vendas por país
+ 
+ 👉 [Clique aqui para visualizar o Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmYxZmQ4ZDgtM2M2MS00NGI3LTlkZTYtZDYyMDkxMDU4NmM3IiwidCI6IjcwNjBlYjFhLWZkY2MtNGVhOS05MTk4LWQ5N2FhNDkyZmJjMiJ9&pageName=06cb6421d051344bbdc3)
 
 ---
 
