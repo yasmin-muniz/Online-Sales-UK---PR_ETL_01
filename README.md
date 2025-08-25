@@ -1,4 +1,4 @@
-# 🛒 Projeto ETL e Dashboard – Online Retail
+# 🛒 Projeto ETL e Dashboard – Online Sales UK
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow?logo=microsoft-power-bi)](https://powerbi.microsoft.com/)
