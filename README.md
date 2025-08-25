@@ -5,7 +5,7 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?logo=microsoftsqlserver)](https://www.microsoft.com/en-us/sql-server)
 
 ## 📖 Contexto
-Este projeto utiliza o dataset **Online Retail** disponível no Kaggle, mas com fonte direa do [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail).  
+Este projeto utiliza o dataset **Online Retail** disponível no Kaggle, mas com fonte direta do [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail).  
 O dataset contém transações realizadas entre **01/12/2010 e 09/12/2011** por uma empresa britânica de comércio eletrônico, especializada em presentes para todas as ocasiões.
 
 **Fonte:** Dr. Daqing Chen, School of Engineering, London South Bank University, UK.
