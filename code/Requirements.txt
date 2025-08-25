@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+kaggle
+openpyxl
+
+
+# rodar no cmd
+# pip install -r requirements.txt
