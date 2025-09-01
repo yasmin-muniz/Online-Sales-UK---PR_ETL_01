@@ -1,17 +1,20 @@
 import os
 import zipfile
 
+
+def Import_DataSet ():
+
 # Criar pasta para guardar os dados
-os.makedirs("data", exist_ok=True)
+    os.makedirs("data", exist_ok=True)
 
 # Baixar o dataset (API Kaggle precisa estar configurada)
-os.system("kaggle datasets download -d carrie1/ecommerce-data -p ./data")
+    os.system("kaggle datasets download -d carrie1/ecommerce-data -p ./data")
 
 # Descompactar  
-with zipfile.ZipFile("./data/ecommerce-data.zip", 'r') as zip_ref:
-    zip_ref.extractall("./data")
+    with zipfile.ZipFile("./data/ecommerce-data.zip", 'r') as zip_ref:
+        zip_ref.extractall("./data")
 
-print("Download concluído e descompactado!")
+    print("Download concluído e descompactado!")
 
 
 
