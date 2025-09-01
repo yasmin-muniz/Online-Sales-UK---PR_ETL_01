@@ -33,11 +33,12 @@ Online-Sales-UK---PR_ETL_01/
 │
 ├── data/ # Arquivos de dados (ex: .parquet, .zip, .csv)
 ├── code/
-│ ├── config.py # Conexão com o SQL Server
-│ ├── import_dataset.py # Extração do dataset
-│ ├── load.py # Load de dados no banco
-│ ├── requirements.txt # Dependências do projeto
-│ ├── exploration.py # Exploração e tratamento de dados 
+│  ├── pipeline.py/
+│  │ ├── config.py # Conexão com o SQL Server
+│  │ ├── import_dataset.py # Extração do dataset
+│  │ ├── load.py # Load de dados no banco
+│  │ ├── requirements.txt # Dependências do projeto
+│  │ ├── exploration.py # Exploração e tratamento de dados 
 ├── database/ # Script utilizado no banco de dados
 ├── PB_PR_ETL_01/ # Arquivos do Power BI
 └── README.md
